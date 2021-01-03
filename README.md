@@ -17,6 +17,8 @@ Du coup comme je le disait en haut je suis V9qX j'habite en france et j'ai 14 an
 - 💬 Vous pouvez me demander de l'aide si vous voulez si je peux vous apportez de l'aide gratuitement bien sur et si j'arriverai :D;
 - 📫 Comment me joindre sur Discord: V9qX#5277;
 
+-------
+
 **Langages et outils:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,6 +29,8 @@ Du coup comme je le disait en haut je suis V9qX j'habite en france et j'ai 14 an
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+
+-------
 
 📊 **Cette semaine, j'ai passé mon temps à:**
 <!--START_SECTION:waka-->
