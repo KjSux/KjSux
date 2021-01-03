@@ -8,7 +8,7 @@
 
 Du coup comme je le disait en haut je suis V9qX j'habite en france et j'ai 14 ans enfin je suis d'origine Turque 🚀
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/KjSux/KjSux/v9qxmain/code.gif?raw=true" width="320" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/KjSux/KjSux/v9qxmain/code.gif?raw=true" width="500" height="300" />
   
   **Affaires Personnelles:**
 
