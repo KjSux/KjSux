@@ -13,7 +13,7 @@ Du coup comme je le disait en haut je suis V9qX j'habite en france et j'ai 14 an
   **Affaires Personnelles:**
 
 - 👨🏽‍💻 En ce moment sois je bosse sur un truc inutille ou sois je discute avec des amis sur Discord :wink:;
-- 🌱 J'apprend quelques langages de programmation plus précicèment du Python/Discord.py | Javascript/Discord.js | Html | MongoDB etc etc ...; 
+- 🌱 J'apprend quelques langages de programmation comme du Lua sur roblox et la c'est plutot du Javascript
 - 💬 Vous pouvez me demander de l'aide si vous voulez si je peux vous apportez de l'aide gratuitement bien sur et si j'arriverai :D;
 - 📫 Comment me joindre sur Discord: V9qX#5277;
 
