@@ -1,6 +1,6 @@
 <h2 align="center">👋 Bonjour! Je suis V9qX.</h2>
 <p align="center">
-  <a href="https://discord.gg/amsterdam">Discord</a> •
+  <a href="https://discord.gg/jez7QRNV">Discord</a> •
   <a href="https://www.youtube.com/channel/UCs5Ex67TAG8Vn5KNQ_4MUsQ/featured">Youtube</a>
 </p>
 
@@ -13,7 +13,7 @@ Du coup comme je le disait en haut je suis V9qX j'habite en france et j'ai 14 an
   **Affaires Personnelles:**
 
 - 👨🏽‍💻 En ce moment sois je bosse sur un truc inutille ou sois je discute avec des amis sur Discord :wink:;
-- 🌱 J'apprend quelques langages de programmation comme du Lua sur roblox et la c'est plutot du Javascript
+- 🌱 J'apprend quelques langages de programmation comme du Lua sur roblox et la puis ce que je suis h24 sur discord je m'intéressea du Javascript
 - 💬 Vous pouvez me demander de l'aide si vous voulez si je peux vous apportez de l'aide gratuitement bien sur et si j'arriverai :D;
 - 📫 Comment me joindre sur Discord: V9qX#5277;
 
