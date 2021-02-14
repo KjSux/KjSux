@@ -1,6 +1,6 @@
 <h2 align="center">👋 Bonjour! Je suis V9qX.</h2>
 <p align="center">
-  <a href="https://discord.gg/jez7QRNV">Discord</a> •
+  <a href="https://discord.gg/JqaNYRh7Sh">Discord</a> •
   <a href="https://www.youtube.com/channel/UCs5Ex67TAG8Vn5KNQ_4MUsQ/featured">Youtube</a>
 </p>
 
